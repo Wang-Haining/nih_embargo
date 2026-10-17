@@ -1,0 +1,101 @@
+pmcid,stratum,release_date,live_date,pmc_live_date_equals_live,pmc_live_date_equals_release
+PMC10970600,"final, release more than 30 days before going live",2024-02-24,2024-03-28,True,False
+PMC13189658,"final, release more than 30 days before going live",2026-02-18,2026-05-21,True,False
+PMC12466937,"final, release more than 30 days before going live",2025-12-05,2026-01-23,True,False
+PMC11981631,"final, release more than 30 days before going live",2025-02-27,2025-04-10,True,False
+PMC13079452,"final, release more than 30 days before going live",2026-01-23,2026-04-16,True,False
+PMC11754651,"final, release more than 30 days before going live",2024-12-16,2025-01-23,True,False
+PMC12128976,"final, release more than 30 days before going live",2025-04-03,2025-06-03,True,False
+PMC11743449,"final, release more than 30 days before going live",2024-01-01,2025-01-20,True,False
+PMC13143431,"final, release more than 30 days before going live",2026-03-21,2026-05-06,True,False
+PMC13224062,"final, release more than 30 days before going live",2026-04-27,2026-06-02,True,False
+PMC11067803,"final, release more than 30 days before going live",2024-03-25,2024-05-04,True,False
+PMC12095047,"final, release more than 30 days before going live",2025-04-22,2025-05-23,True,False
+PMC11994314,"final, release more than 30 days before going live",2025-03-04,2025-04-14,True,False
+PMC13026416,"final, release more than 30 days before going live",2026-02-25,2026-03-28,True,False
+PMC11706789,"final, release more than 30 days before going live",2024-10-25,2025-01-09,True,False
+PMC13089540,"final, release more than 30 days before going live",2026-02-10,2026-04-18,True,False
+PMC11739323,"final, release more than 30 days before going live",2024-01-01,2025-01-17,True,False
+PMC10729789,"final, release more than 30 days before going live",2023-09-14,2023-12-20,True,False
+PMC12078434,"final, release more than 30 days before going live",2025-04-01,2025-05-16,True,False
+PMC11253288,"final, release more than 30 days before going live",2024-04-11,2024-07-17,True,False
+PMC11282021,"final, release more than 30 days before going live",2024-03-25,2024-07-28,True,False
+PMC11128211,"final, release more than 30 days before going live",2024-03-12,2024-05-27,True,False
+PMC11840282,"final, release more than 30 days before going live",2025-01-20,2025-02-20,True,False
+PMC11193480,"final, release more than 30 days before going live",2024-01-08,2024-06-23,True,False
+PMC12074759,"final, release more than 30 days before going live",2025-02-18,2025-05-14,True,False
+PMC11154758,"final, release more than 30 days before going live",2024-04-21,2024-06-07,True,False
+PMC12061360,"final, release more than 30 days before going live",2025-02-18,2025-05-09,True,False
+PMC13313493,"final, release more than 30 days before going live",2026-04-23,2026-06-30,True,False
+PMC13102720,"final, release more than 30 days before going live",2026-02-18,2026-04-24,True,False
+PMC12186537,"final, release more than 30 days before going live",2025-02-06,2025-06-25,True,False
+PMC11976298,"final, release more than 30 days before going live",2025-02-05,2025-04-09,True,False
+PMC10865784,"final, release more than 30 days before going live",2024-01-05,2024-02-15,True,False
+PMC13148057,"final, release more than 30 days before going live",2026-04-06,2026-05-07,True,False
+PMC13251277,"final, release more than 30 days before going live",2026-04-21,2026-06-11,True,False
+PMC12132697,"final, release more than 30 days before going live",2025-03-18,2025-06-04,True,False
+PMC12060243,"final, release more than 30 days before going live",2025-04-07,2025-05-09,True,False
+PMC11798950,"final, release more than 30 days before going live",2024-01-01,2025-02-06,True,False
+PMC13278677,"final, release more than 30 days before going live",2026-02-28,2026-07-09,True,False
+PMC13375575,"final, release more than 30 days before going live",2025-04-30,2026-07-18,True,False
+PMC12132632,"final, release more than 30 days before going live",2025-03-04,2025-06-04,True,False
+PMC10767805,"final, release more than 30 days before going live",2023-10-16,2024-01-06,True,False
+PMC12054423,"final, release more than 30 days before going live",2025-01-21,2025-05-07,True,False
+PMC12865595,"final, release more than 30 days before going live",2025-12-05,2026-02-04,True,False
+PMC10998341,"final, release more than 30 days before going live",2024-01-29,2024-04-06,True,False
+PMC10954471,"final, release more than 30 days before going live",2024-01-28,2024-03-22,True,False
+PMC12074775,"final, release more than 30 days before going live",2025-02-18,2025-05-14,True,False
+PMC12075889,"final, release more than 30 days before going live",2026-02-04,2026-08-03,True,False
+PMC11102385,"final, release more than 30 days before going live",2024-02-22,2024-05-20,True,False
+PMC12132757,"final, release more than 30 days before going live",2025-03-04,2025-06-04,True,False
+PMC11010112,"final, release more than 30 days before going live",2024-02-20,2024-04-13,True,False
+PMC12897938,"final, dates agree",2026-08-11,2026-08-11,True,True
+PMC12405096,"final, dates agree",2026-08-01,2026-08-01,True,True
+PMC11286116,"final, dates agree",2025-03-01,2025-03-01,True,True
+PMC11897793,"final, dates agree",2025-12-24,2025-12-24,True,True
+PMC11775831,"final, dates agree",2026-01-24,2026-01-24,True,True
+PMC10878072,"final, dates agree",2024-07-10,2024-07-10,True,True
+PMC11003417,"final, dates agree",2025-03-13,2025-03-13,True,True
+PMC11305649,"final, dates agree",2025-03-01,2025-03-01,True,True
+PMC10804679,"final, dates agree",2025-02-01,2025-02-01,True,True
+PMC11783161,"final, dates agree",2026-01-01,2026-01-01,True,True
+PMC10984277,"final, dates agree",2025-03-11,2025-03-11,True,True
+PMC12045893,"final, dates agree",2026-05-01,2026-05-01,True,True
+PMC12351374,"final, dates agree",2026-06-02,2026-06-02,True,True
+PMC10890954,"final, dates agree",2025-03-01,2025-03-01,True,True
+PMC12070484,"final, dates agree",2026-01-08,2026-01-08,True,True
+PMC11874447,"final, dates agree",2025-03-03,2025-03-03,True,True
+PMC11947178,"final, dates agree",2025-09-06,2025-09-06,True,True
+PMC11736439,"final, dates agree",2025-01-16,2025-01-16,True,True
+PMC10953122,"final, dates agree",2024-03-20,2024-03-20,True,True
+PMC11669118,"final, dates agree",2024-12-25,2024-12-25,True,True
+PMC11792374,"final, dates agree",2025-02-04,2025-02-04,True,True
+PMC10989011,"final, dates agree",2024-08-22,2024-08-22,True,True
+PMC11744848,"final, dates agree",2025-01-20,2025-01-20,True,True
+PMC11747221,"final, dates agree",2025-11-07,2025-11-07,True,True
+PMC11934212,"final, dates agree",2026-03-25,2026-03-25,True,True
+PMC11949413,author manuscript,2026-03-01,2026-03-01,True,True
+PMC12238293,author manuscript,2026-01-09,2026-01-09,True,True
+PMC12184841,author manuscript,2025-06-23,2025-06-23,True,True
+PMC12163234,author manuscript,2026-06-01,2026-06-01,True,True
+PMC13343764,author manuscript,2026-07-08,2026-07-09,True,False
+PMC12021370,author manuscript,2025-04-24,2025-04-24,True,True
+PMC11090709,author manuscript,2025-06-01,2025-06-01,True,True
+PMC12199285,author manuscript,2025-06-26,2025-06-26,True,True
+PMC13435468,author manuscript,2026-08-04,2026-08-05,True,False
+PMC11831319,author manuscript,2026-01-01,2026-01-01,True,True
+PMC11913348,author manuscript,2025-03-17,2025-03-17,True,True
+PMC13138003,author manuscript,2026-05-05,2026-05-05,True,True
+PMC13298727,author manuscript,2026-06-25,2026-06-26,True,False
+PMC12286733,author manuscript,2025-10-06,2025-10-06,True,True
+PMC12853272,author manuscript,2026-01-29,2026-01-30,True,False
+PMC11995850,author manuscript,2026-02-12,2026-02-12,True,True
+PMC12205852,author manuscript,2025-06-28,2025-06-28,True,True
+PMC13004114,author manuscript,2026-03-20,2026-03-21,True,False
+PMC11081821,author manuscript,2025-07-01,2025-07-01,True,True
+PMC12353620,author manuscript,2026-04-01,2026-04-01,True,True
+PMC11802306,author manuscript,2025-08-06,2025-08-06,True,True
+PMC12133422,author manuscript,2026-06-01,2026-06-01,True,True
+PMC12020409,author manuscript,2025-04-24,2025-04-24,True,True
+PMC12094888,author manuscript,2025-11-01,2025-11-01,True,True
+PMC12226213,author manuscript,2026-04-29,2026-04-29,True,True
