@@ -1,0 +1,32 @@
+[project]
+name = "nih-embargo"
+version = "1.0.0"
+description = "Code and data for a study of the 2025 NIH public-access policy and availability in PubMed Central"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+# Pins mirror requirements.txt.
+dependencies = [
+    "pandas>=2.2,<4",
+    "numpy>=1.26,<3",
+    "matplotlib>=3.8,<4",
+]
+
+[project.optional-dependencies]
+# Data acquisition only (src/acquire/*): local OpenAlex snapshot and network access required
+acquire = [
+    "duckdb>=1.1",
+    "pyarrow>=15",
+    "lxml>=5",
+    "requests>=2.31",
+]
+
+[tool.black]
+line-length = 110
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM"]

@@ -1,0 +1,118 @@
+{
+ "unresolved_n": 169,
+ "pubmed_date_7d": {
+  "est": 0.87766,
+  "lo": -1.54921,
+  "hi": 3.528951
+ },
+ "pubmed_date_120d": {
+  "est": 21.941489,
+  "lo": 16.837047,
+  "hi": 27.481102
+ },
+ "openalex_date_7d": {
+  "est": 0.425532,
+  "lo": -1.457065,
+  "hi": 2.297158
+ },
+ "openalex_date_120d": {
+  "est": 19.547872,
+  "lo": 14.573626,
+  "hi": 25.067189
+ },
+ "dates_agree_within_7d_7d": {
+  "est": 0.484618,
+  "lo": -1.487387,
+  "hi": 2.291666
+ },
+ "dates_agree_within_7d_120d": {
+  "est": 25.202322,
+  "lo": 19.667312,
+  "hi": 30.85428
+ },
+ "excluding_unresolved_dates_7d": {
+  "est": 0.392006,
+  "lo": -1.425675,
+  "hi": 2.126692
+ },
+ "excluding_unresolved_dates_120d": {
+  "est": 19.933128,
+  "lo": 14.808597,
+  "hi": 25.295414
+ },
+ "drop_crossref_nih_controls_7d": {
+  "est": 0.301579,
+  "lo": -1.530174,
+  "hi": 1.897591
+ },
+ "drop_crossref_nih_controls_120d": {
+  "est": 19.539717,
+  "lo": 14.461054,
+  "hi": 25.093518
+ },
+ "explicit_nih_grant_only_7d": {
+  "est": 0.297168,
+  "lo": -1.481697,
+  "hi": 1.996917
+ },
+ "explicit_nih_grant_only_120d": {
+  "est": 20.512458,
+  "lo": 15.722816,
+  "hi": 26.286148
+ },
+ "month_1_120d": {
+  "est": 25.660066,
+  "lo": 19.613382,
+  "hi": 31.686061
+ },
+ "month_1_nih_2025": 39.438944,
+ "month_1_nih_2026": 65.123967,
+ "month_2_120d": {
+  "est": 16.703786,
+  "lo": 9.52381,
+  "hi": 25.058769
+ },
+ "month_2_nih_2025": 45.211581,
+ "month_2_nih_2026": 65.478842,
+ "month_3_120d": {
+  "est": 21.445221,
+  "lo": 13.191114,
+  "hi": 30.25154
+ },
+ "month_3_nih_2025": 50.34965,
+ "month_3_nih_2026": 71.962617,
+ "month_4_120d": {
+  "est": 10.858586,
+  "lo": 3.131682,
+  "hi": 19.82537
+ },
+ "month_4_nih_2025": 56.060606,
+ "month_4_nih_2026": 69.949495,
+ "comparison_other_federal_n": 30,
+ "drop_other_federal_controls_7d": {
+  "est": 0.347429,
+  "lo": -1.413083,
+  "hi": 1.963315
+ },
+ "drop_other_federal_controls_120d": {
+  "est": 19.169746,
+  "lo": 13.989989,
+  "hi": 24.649689
+ },
+ "month_1_120d_manuscript": 12.211221,
+ "month_1_120d_final": 13.448845,
+ "month_1_doaj_share": 0.29538,
+ "month_1_placebo_120d": -0.937275,
+ "month_2_120d_manuscript": 15.144766,
+ "month_2_120d_final": 1.55902,
+ "month_2_doaj_share": 0.314031,
+ "month_2_placebo_120d": 1.156584,
+ "month_3_120d_manuscript": 15.384615,
+ "month_3_120d_final": 6.060606,
+ "month_3_doaj_share": 0.344988,
+ "month_3_placebo_120d": 2.808511,
+ "month_4_120d_manuscript": 9.090909,
+ "month_4_120d_final": 1.767677,
+ "month_4_doaj_share": 0.391414,
+ "month_4_placebo_120d": 2.427638
+}

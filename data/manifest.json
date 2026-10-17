@@ -1,0 +1,91 @@
+{
+  "pubmed_query": "(\"Research Support, N.I.H., Extramural\"[pt] OR \"Research Support, N.I.H., Intramural\"[pt]) AND journal article[pt]",
+  "publication_windows": {
+    "months": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "placebo_years": [
+      2024,
+      2025
+    ],
+    "primary_years": [
+      2025,
+      2026
+    ]
+  },
+  "pubmed_query_counts": {
+    "2024-01-01_to_04-30": 26788,
+    "2025-01-01_to_04-30": 14530,
+    "2026-01-01_to_04-30": 6130,
+    "cross_year_duplicate_hits": 272,
+    "unique_pmids": 47176
+  },
+  "comparison_ratio": 1,
+  "snapshots": {
+    "openalex": "2026-06-26",
+    "pmc_identifier_list": "2026-09-12",
+    "outcomes_as_of": "2026-10-16",
+    "pmc_oai_pmh": "2026-10-16 to 2026-10-17",
+    "europe_pmc": "2026-10-16",
+    "pmc_journal_list": "2026-10-16"
+  },
+  "estimand": "publication-cohort intention-to-treat",
+  "seed": 20260912,
+  "publication_date": "earlier of the PubMed publication date and the OpenAlex publication date",
+  "share_pubmed_date_outside_window": 0.05611702127659574,
+  "october_retrieval": {
+    "pubmed_query_counts": {
+      "2024-01-01_to_04-30": 28096,
+      "2025-01-01_to_04-30": 16687,
+      "2026-01-01_to_04-30": 7243,
+      "cross_year_duplicate_hits": 301,
+      "unique_pmids": 51725
+    },
+    "eligible_jan_apr": {
+      "2024": 19653,
+      "2025": 11763,
+      "2026": 4502
+    },
+    "pubmed_retrieved": "2026-10-16",
+    "pmc_identifier_list": "2026-10-16"
+  },
+  "primary_outcome": "live in PMC within 7 days of publication (publication date = earlier of PubMed and OpenAlex dates)",
+  "denominator_audit": [
+    {
+      "canonical_year": "all",
+      "captured": 47176,
+      "doi_present": 47090,
+      "openalex_linked": 47058,
+      "exact_or_openalex_date": 47097,
+      "eligible_jan_apr": 32778
+    },
+    {
+      "canonical_year": 2024,
+      "captured": 23987,
+      "doi_present": 23972,
+      "openalex_linked": 23970,
+      "exact_or_openalex_date": 23982,
+      "eligible_jan_apr": 18890
+    },
+    {
+      "canonical_year": 2025,
+      "captured": 12660,
+      "doi_present": 12656,
+      "openalex_linked": 12655,
+      "exact_or_openalex_date": 12660,
+      "eligible_jan_apr": 10177
+    },
+    {
+      "canonical_year": 2026,
+      "captured": 3757,
+      "doi_present": 3757,
+      "openalex_linked": 3735,
+      "exact_or_openalex_date": 3757,
+      "eligible_jan_apr": 3711
+    }
+  ],
+  "control_candidates_n": 161762
+}
