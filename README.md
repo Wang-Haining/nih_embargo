@@ -32,6 +32,8 @@ and `figures/fig1.png`. With pip, activate the environment and drop the `uv run`
 
 ## Citation
 
+Archived release: v1.0.1 on Zenodo, https://doi.org/10.5281/zenodo.23826370 (all versions: https://doi.org/10.5281/zenodo.23826369).
+
 
 ```bibtex
 @misc{wang2026embargo,
